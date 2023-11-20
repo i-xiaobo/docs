@@ -3,7 +3,7 @@ const pluginsConf = require('./config/pluginsConf.js');
 const navConf = require('./config/navConf.js');
 
 module.exports = {
-    base: "/docs/",
+    // base: "/docs/",
     title: 'XiaoBo&工作笔记',
     description: 'Just playing around',
     head: headConf,
