@@ -104,7 +104,7 @@ module.exports = [
       items: [
         { text: '配置', items: [
           { text: '配置',      link: '/' },
-          { text: '离线地图', link: '/map/index' },
+          { text: '离线地图', link: '/map/amap' }
         ] },
       ]
   },
