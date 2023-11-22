@@ -4,13 +4,12 @@ const navConf = require('./config/navConf.js');
 
 module.exports = {
     // base: "/docs/",
-    title: 'XiaoBo&工作笔记',
+    title: '我の工作笔记',
     description: 'Just playing around',
     head: headConf,
-
     plugins: pluginsConf,
     themeConfig: {
-        logo: '/assets/img/logo.png',
+        logo: 'avatar.jpg',
 
         // 最后更新时间
         lastUpdated: '更新时间', // string | boolean
