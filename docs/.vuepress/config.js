@@ -9,7 +9,7 @@ module.exports = {
     head: headConf,
     plugins: pluginsConf,
     themeConfig: {
-        logo: 'avatar.jpg',
+        logo: '/avatar.jpg',
 
         // 最后更新时间
         lastUpdated: '更新时间', // string | boolean

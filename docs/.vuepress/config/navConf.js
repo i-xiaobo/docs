@@ -96,7 +96,8 @@ module.exports = [
         { text: '常用命令',      link: '/linux/public' },
         { text: '网络配置',      link: '/linux/network' },
         { text: '安装telnet',    link: '/linux/telnet' },
-        { text: 'tar命令',      link: '/linux/tar' }
+        { text: 'tar命令',      link: '/linux/tar' },
+        { text: '内网http=>https',      link: '/linux/nginxhttps' }
       ]
   },
   {
