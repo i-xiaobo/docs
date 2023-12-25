@@ -119,7 +119,6 @@ module.exports = [
   {
     text: '随笔',
     items: [
-        { text: '随笔', link: '/' },
         { text: '前端插件', link: '/notes/front-end' },
         { text: '后端插件', link: '/notes/back-end' }
       ]
