@@ -101,6 +101,13 @@ module.exports = [
       ]
   },
   {
+      text: 'Windows',
+      ariaLabel: 'Language Menu',
+      items: [
+        { text: '端口占用',    link: '/windows/port' }
+      ]
+  },
+  {
       text: '地图',
       items: [
         { text: '配置', items: [
@@ -110,11 +117,11 @@ module.exports = [
       ]
   },
   {
-      text: '随笔',
-      ariaLabel: 'Language Menu',
-      items: [
-        { text: 'Chinese', link: '/language/chinese/' },
-        { text: 'Japanese', link: '/language/japanese/' }
+    text: '随笔',
+    items: [
+        { text: '随笔', link: '/' },
+        { text: '前端插件', link: '/notes/front-end' },
+        { text: '后端插件', link: '/notes/back-end' }
       ]
   },
   {
